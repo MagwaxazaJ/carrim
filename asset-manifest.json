@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/carrim/static/js/main.9ffd7b3f.chunk.js",
+    "main.js.map": "/carrim/static/js/main.9ffd7b3f.chunk.js.map",
+    "runtime-main.js": "/carrim/static/js/runtime-main.2a6b693e.js",
+    "runtime-main.js.map": "/carrim/static/js/runtime-main.2a6b693e.js.map",
+    "static/js/2.485fbcdf.chunk.js": "/carrim/static/js/2.485fbcdf.chunk.js",
+    "static/js/2.485fbcdf.chunk.js.map": "/carrim/static/js/2.485fbcdf.chunk.js.map",
+    "index.html": "/carrim/index.html",
+    "static/js/2.485fbcdf.chunk.js.LICENSE.txt": "/carrim/static/js/2.485fbcdf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a6b693e.js",
+    "static/js/2.485fbcdf.chunk.js",
+    "static/js/main.9ffd7b3f.chunk.js"
+  ]
+}
